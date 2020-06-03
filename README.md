@@ -5,6 +5,7 @@ My collection of labs in C++
 <ol>
   <li>Introduction to C++</li>
   <li>Data types, operations, and flow control</li>
+  <li>Pointers and functions</li>
 </ol>
 
 <h2>My Projects</h2>
