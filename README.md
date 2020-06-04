@@ -1,4 +1,4 @@
-<h1>CPPLabs</h1>
+<h1>C-Plus-Plus Labs</h1>
 My collection of labs in C++
 
 <h2>CPPInstitute</h2>
