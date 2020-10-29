@@ -6,6 +6,7 @@ My collection of labs in C++
   <li>Introduction to C++</li>
   <li>Data types, operations, and flow control</li>
   <li>Pointers and functions</li>
+  <li>Multidimensinal arrays and string manipulation</li>
 </ol>
 
 <h2>My Projects</h2>
