@@ -7,6 +7,10 @@ My collection of labs in C++
   <li>Data types, operations, and flow control</li>
   <li>Pointers and functions</li>
   <li>Multidimensinal arrays and string manipulation</li>
+  <li>Pointers and strings</li>
+  <li>Pointers and structures</li>
+  <li>Security Issues and the Improper Use of Pointers</li>
+  <li>Odds and Ends</li>
 </ol>
 
 <h2>My Projects</h2>
